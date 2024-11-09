@@ -1,0 +1,8 @@
+.text-cstm {
+  font-size: 2rem;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  appearance: none;
+}
